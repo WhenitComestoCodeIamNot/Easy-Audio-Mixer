@@ -1,0 +1,5 @@
+{
+  "name": "Pro Audio Mixer",
+  "description": "A React-based professional audio mixer interface with a dark, hardware-inspired design, controlling a virtual audio engine. Features include volume faders, EQ knobs, effects controls, channel management, and real-time audio visualization.",
+  "requestFramePermissions": []
+}
